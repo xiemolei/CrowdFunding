@@ -1,0 +1,16 @@
+/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-admin-parent/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/handler/AdminHandler.java
+/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-admin-parent/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/RoleServiceImpl.java
+/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-admin-parent/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/api/RoleService.java
+/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-admin-parent/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/handler/TestMapping.java
+/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-admin-parent/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/api/MenuService.java
+/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-admin-parent/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mapper/RoleMapper.java
+/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-admin-parent/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/api/AdminService.java
+/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-admin-parent/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mapper/AdminMapper.java
+/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-admin-parent/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/AdminServiceImpl.java
+/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-admin-parent/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/handler/MenuHandler.java
+/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-admin-parent/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mapper/MenuMapper.java
+/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-admin-parent/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/handler/RoleHandler.java
+/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-admin-parent/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/MenuServiceImpl.java
+/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-admin-parent/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/handler/AssignRoleHandler.java
+/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-admin-parent/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/interceptor/LoginInterceptor.java
+/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-admin-parent/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/CrowdExceptionResolver.java
