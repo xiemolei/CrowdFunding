@@ -23,6 +23,4 @@ public interface RoleService {
     List<Role> getAssignRole(Integer adminId);
 
     List<Role> getUnAssignRole(Integer adminId);
-
-    List<Role> getAssignedRole(Integer adminId);
 }

@@ -1,0 +1,27 @@
+server:
+  port: 4000
+spring:
+  application:
+    name: crowd-auth
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+  redis:
+    host: 127.0.0.1
+  session:
+    store-type: redis
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1900/eureka
+short:
+  message:
+    app-code: 035cb44fe2fd45318f38976b0a13476b
+    host: https://aliapi.market.alicloudapi.com
+    method: POST
+    path: /smsApi/verifyCode/send
+    templateId: 540
+# 第一次访问是将较长，ribbon超时时间延长为20s
+ribbon:
+  ReadTimeout: 20000
+  ConnectTimeout: 20000

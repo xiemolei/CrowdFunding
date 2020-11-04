@@ -1,0 +1,3 @@
+com/cloud/member/crowd/handler/MemberProviderHandler.class
+com/cloud/member/crowd/MysqlProviderMain.class
+com/cloud/member/crowd/mapper/MemberPOMapper.class

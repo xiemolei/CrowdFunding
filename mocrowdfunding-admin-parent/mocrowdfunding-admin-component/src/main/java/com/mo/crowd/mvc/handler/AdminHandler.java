@@ -5,16 +5,21 @@ import com.mo.crowd.constant.CrowdConstant;
 import com.mo.crowd.entity.Admin;
 import com.mo.crowd.exception.LoginFailedException;
 import com.mo.crowd.service.api.AdminService;
+import com.mo.crowd.util.ResultEntity;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.access.prepost.PostAuthorize;
+import org.springframework.security.access.prepost.PostFilter;
+import org.springframework.security.access.prepost.PreAuthorize;
+import org.springframework.security.access.prepost.PreFilter;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.HttpSession;
+import javax.swing.*;
+import java.util.List;
 
 /**
  * @author : xiemogaminari
@@ -119,5 +124,28 @@ public class AdminHandler {
         session.setAttribute(CrowdConstant.ATTR_NAME_LOGIN_ADMIN, admin);
 
         return "redirect:/admin/to/main/page.html";
+    }
+/*
+    Spring Security中定义了四个支持使用表达式的注解，分别是@PreAuthorize、@PostAuthorize、@PreFilter和@PostFilter。
+    其中前两者可以用来在方法调用前或者调用后进行权限检查，后两者可以用来对集合类型的参数或者返回值进行过滤。
+    要使它们的定义能够对我们的方法的调用产生影响我们需要设置global-method-security元素的pre-post-annotations=”enabled”，默认为disabled。
+*/
+    @ResponseBody
+    @PostAuthorize("returnObject.data.loginAcct == principal.username")
+    @RequestMapping("/admin/test/post/filter.json")
+    public ResultEntity<Admin> getAdminById() {
+
+        Admin admin = new Admin();
+
+        admin.setLoginAcct("adminOperator");
+
+        return ResultEntity.successWithData(admin);
+    }
+
+    @PreFilter(value="filterObject%2==0")
+    @ResponseBody
+    @RequestMapping("/admin/test/pre/filter")
+    public ResultEntity<List<Integer>> saveList(@RequestBody List<Integer> valueList) {
+        return ResultEntity.successWithData(valueList);
     }
 }

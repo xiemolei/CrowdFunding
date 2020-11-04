@@ -43,7 +43,7 @@ public class CrowdUserDetailsService implements UserDetailsService {
         Integer adminId = admin.getId();
 
         // 3.根据adminId查询角色信息
-        List<Role> assignedRoleList = roleService.getAssignedRole(adminId);
+        List<Role> assignedRoleList = roleService.getAssignRole(adminId);
 
         // 4.根据adminId查询权限信息
         List<String> authNameList = authService.getAssignedAuthNameByAdminId(adminId);
@@ -69,6 +69,8 @@ public class CrowdUserDetailsService implements UserDetailsService {
 
             authorities.add(simpleGrantedAuthority);
         }
+
+        System.out.println("***************************"+authorities.toString());
 
         // 8.封装SecurityAdmin对象
         SecurityAdmin securityAdmin = new SecurityAdmin(admin, authorities);

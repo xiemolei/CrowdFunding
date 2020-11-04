@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="crowd-cloud-member-authentication-consumer" />
+        <module name="crowd-cloud-member-zuul" />
+        <module name="crowd-cloud-member-project-consumer" />
+        <module name="crowd-cloud-member-eureka" />
+        <module name="crowd-cloud-member-entity" />
+        <module name="crowd-cloud-member-mysql-provider" />
+        <module name="crowd-cloud-member-feign-api" />
+        <module name="crowd-cloud-member-redis-provider" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

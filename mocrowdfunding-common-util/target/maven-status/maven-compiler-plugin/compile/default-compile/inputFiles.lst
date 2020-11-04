@@ -1,7 +1,9 @@
-/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-common-util/src/main/java/com/mo/crowd/exception/AccessForbiddenException.java
-/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-common-util/src/main/java/com/mo/crowd/constant/CrowdConstant.java
-/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-common-util/src/main/java/com/mo/crowd/util/ResultEntity.java
-/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-common-util/src/main/java/com/mo/crowd/exception/LoginAcctAlreadyInUseException.java
-/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-common-util/src/main/java/com/mo/crowd/exception/LoginAcctAlreadyInUseForUpdateException.java
-/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-common-util/src/main/java/com/mo/crowd/exception/LoginFailedException.java
-/Users/xiemogaminari/MyCode/IDEA/mocrowdfunding-common-util/src/main/java/com/mo/crowd/util/CrowdUtil.java
+/Users/xiemogaminari/MyCode/IDEA/CrowdFunding/mocrowdfunding-common-util/src/main/java/com/mo/crowd/aliyun/api/getway/demo/util/HttpUtils.java
+/Users/xiemogaminari/MyCode/IDEA/CrowdFunding/mocrowdfunding-common-util/src/main/java/com/mo/crowd/exception/AccessForbiddenException.java
+/Users/xiemogaminari/MyCode/IDEA/CrowdFunding/mocrowdfunding-common-util/src/main/java/com/mo/crowd/util/CrowdUtil.java
+/Users/xiemogaminari/MyCode/IDEA/CrowdFunding/mocrowdfunding-common-util/src/main/java/com/mo/crowd/exception/LoginAcctAlreadyInUseException.java
+/Users/xiemogaminari/MyCode/IDEA/CrowdFunding/mocrowdfunding-common-util/src/main/java/com/mo/crowd/exception/LoginAcctAlreadyInUseForUpdateException.java
+/Users/xiemogaminari/MyCode/IDEA/CrowdFunding/mocrowdfunding-common-util/src/main/java/com/mo/crowd/util/ResultEntity.java
+/Users/xiemogaminari/MyCode/IDEA/CrowdFunding/mocrowdfunding-common-util/src/main/java/com/mo/crowd/constant/AccessPassResources.java
+/Users/xiemogaminari/MyCode/IDEA/CrowdFunding/mocrowdfunding-common-util/src/main/java/com/mo/crowd/exception/LoginFailedException.java
+/Users/xiemogaminari/MyCode/IDEA/CrowdFunding/mocrowdfunding-common-util/src/main/java/com/mo/crowd/constant/CrowdConstant.java

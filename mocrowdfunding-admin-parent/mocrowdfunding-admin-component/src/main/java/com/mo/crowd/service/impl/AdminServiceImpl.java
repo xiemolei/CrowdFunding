@@ -13,6 +13,7 @@ import com.mo.crowd.service.api.AdminService;
 import com.mo.crowd.util.CrowdUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DuplicateKeyException;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import javax.naming.directory.AttributeInUseException;
@@ -32,10 +33,14 @@ public class AdminServiceImpl implements AdminService {
     @Autowired
     public AdminMapper adminMapper;
 
+    @Autowired
+    public BCryptPasswordEncoder passwordEncoder;
+
     public void saveAdmin(Admin admin){
         // 密码加密
         String adminpwd = admin.getUserPswd();
-        adminpwd = CrowdUtil.md5(adminpwd);
+//        adminpwd = CrowdUtil.md5(adminpwd);
+        adminpwd = passwordEncoder.encode(adminpwd);
         admin.setUserPswd(adminpwd);
 
         // 创建日期
@@ -85,8 +90,8 @@ public class AdminServiceImpl implements AdminService {
         // 4.admin存在，取出密码
         String pswAdminDB = admin.getUserPswd();
         // 5.表单密码加密
-        String pswAdminForm = CrowdUtil.md5(userPswd);
-
+//        String pswAdminForm = CrowdUtil.md5(userPswd);
+        String pswAdminForm = passwordEncoder.encode(userPswd);
         // 6.比较密码
         if(!Objects.equals(pswAdminDB, pswAdminForm)){
             // 7.密码错误

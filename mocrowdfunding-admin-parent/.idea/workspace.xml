@@ -6,7 +6,75 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aea5ab9f-0618-49f3-b7ba-7267aa1c5b0c" name="Default Changelist" comment="" />
+    <list default="true" id="aea5ab9f-0618-49f3-b7ba-7267aa1c5b0c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/CrowdUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/CrowdUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/SecurityAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/SecurityAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/WebAppSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/WebAppSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/handler/AdminHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/handler/AdminHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/api/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/api/RoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/AdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/AdminServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/RoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-component/target/classes/com/mo/crowd/mapper/AuthMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-component/target/classes/com/mo/crowd/mapper/AuthMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-component/target/classes/com/mo/crowd/mapper/RoleMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-component/target/classes/com/mo/crowd/mapper/RoleMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-component/target/classes/com/mo/crowd/mvc/handler/AdminHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-component/target/classes/com/mo/crowd/mvc/handler/AdminHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-component/target/classes/com/mo/crowd/service/api/AdminService.class" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-component/target/classes/com/mo/crowd/service/api/AdminService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-component/target/classes/com/mo/crowd/service/api/AuthService.class" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-component/target/classes/com/mo/crowd/service/api/AuthService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-component/target/classes/com/mo/crowd/service/impl/AdminServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-component/target/classes/com/mo/crowd/service/impl/AdminServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-component/target/classes/com/mo/crowd/service/impl/AuthServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-component/target/classes/com/mo/crowd/service/impl/AuthServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/classes/target/classes/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/classes/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/classes/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/classes/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/classes/target/classes/target/mocrowdfunding-admin-entity-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/classes/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/classes/target/mocrowdfunding-admin-entity-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-entity/target/classes/target/mocrowdfunding-admin-entity-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/mybatis/mapper/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/mybatis/mapper/RoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/spring-web-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/spring-web-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/admin-login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/admin-login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/admin-main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/admin-main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/include-nav.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/include-nav.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/test/java/com/mo/crowd/test/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/test/java/com/mo/crowd/test/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/classes/mybatis/mapper/AuthMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/classes/mybatis/mapper/AuthMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/classes/spring-web-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/classes/spring-web-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/admin-login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/admin-login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/admin-main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/admin-main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/classes/mybatis/mapper/AuthMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/classes/mybatis/mapper/AuthMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/classes/spring-web-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/classes/spring-web-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/include-nav.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/include-nav.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/lib/mocrowdfunding-admin-component-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/lib/mocrowdfunding-admin-component-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/lib/mocrowdfunding-admin-entity-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/lib/mocrowdfunding-admin-entity-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/lib/mocrowdfunding-common-util-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/lib/mocrowdfunding-common-util-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/mocrowdfunding-admin-weui-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/test-classes/com/mo/crowd/test/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/test-classes/com/mo/crowd/test/StringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mocrowdfunding-common-reverse/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mocrowdfunding-common-reverse/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mocrowdfunding-common-util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mocrowdfunding-common-util/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mocrowdfunding-common-util/src/main/java/com/mo/crowd/constant/CrowdConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mocrowdfunding-common-util/src/main/java/com/mo/crowd/constant/CrowdConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mocrowdfunding-common-util/src/main/java/com/mo/crowd/util/CrowdUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mocrowdfunding-common-util/src/main/java/com/mo/crowd/util/CrowdUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/classes/com/mo/crowd/constant/CrowdConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/classes/com/mo/crowd/constant/CrowdConstant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/classes/com/mo/crowd/exception/AccessForbiddenException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/classes/com/mo/crowd/exception/AccessForbiddenException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/classes/com/mo/crowd/exception/LoginAcctAlreadyInUseException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/classes/com/mo/crowd/exception/LoginAcctAlreadyInUseException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/classes/com/mo/crowd/exception/LoginAcctAlreadyInUseForUpdateException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/classes/com/mo/crowd/exception/LoginAcctAlreadyInUseForUpdateException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/classes/com/mo/crowd/exception/LoginFailedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/classes/com/mo/crowd/exception/LoginFailedException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/classes/com/mo/crowd/util/CrowdUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/classes/com/mo/crowd/util/CrowdUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/classes/com/mo/crowd/util/ResultEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/classes/com/mo/crowd/util/ResultEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/mocrowdfunding-common-util-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../mocrowdfunding-common-util/target/mocrowdfunding-common-util-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/mocrowdfunding-admin-weui/target/" />
@@ -26,86 +94,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/CrowdUserDetailsService.java">
+        <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/handler/TestMapping.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-53">
-              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/interceptor/LoginInterceptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/SecurityAdmin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="26" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#982#983#0" expanded="true" />
-                <element signature="e#1018#1019#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/WebAppSecurityConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="24" column="57" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/AdminServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2325">
-              <caret line="155" column="66" selection-start-line="155" selection-start-column="66" selection-end-line="155" selection-end-column="66" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1897#1898#0" expanded="true" />
-                <element signature="e#1967#1968#0" expanded="true" />
-                <element signature="e#4410#4411#0" expanded="true" />
-                <element signature="e#4470#4471#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/spring-web-mvc.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state relative-caret-position="465">
+              <caret line="63" column="86" selection-start-line="63" selection-start-column="79" selection-end-line="63" selection-end-column="86" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/spring-persist-tx.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/admin-login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/spring-persist-mybatis.xml">
+        <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9" />
+            <state relative-caret-position="615">
+              <caret line="41" column="31" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="31" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -126,14 +137,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Criteria</find>
-      <find>CrowdUtil</find>
-      <find>ƒ</find>
-      <find>Pagination</find>
-      <find>pencilBtn</find>
-      <find>fillTableBody</find>
-      <find>Insert</find>
-      <find>addModal</find>
       <find>saveRoleBtn</find>
       <find>generatePage</find>
       <find>showAddModalBtn</find>
@@ -155,7 +158,15 @@
       <find>selectByExample</find>
       <find>securi</find>
       <find>se</find>
+      <find>password</find>
       <find>SecurityAdmin</find>
+      <find>******</find>
+      <find>selectUnAssignedRole</find>
+      <find>selectAssignedRole</find>
+      <find>selectAssignedAuthNameByAdminId</find>
+      <find>********</find>
+      <find>/admin/to/main/page.html</find>
+      <find>*****</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -163,22 +174,19 @@
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/java</dir>
+      <dir>$PROJECT_DIR$/mocrowdfunding-admin-component/src/main</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/mocrowdfunding-admin-entity/src/main/java/com/mo/crowd/entity/Address.java" />
-        <option value="$PROJECT_DIR$/mocrowdfunding-admin-entity/src/main/java/com/mo/crowd/entity/Subject.java" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-entity/src/main/java/com/mo/crowd/entity/Student.java" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/system-error.jsp" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/handler/TestMapping.java" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/api/AdminServiceImpl.java" />
-        <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/test/java/com/mo/crowd/test/StringTest.java" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/login-admin.jsp" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/interceptor/LoginInterceptor.java" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/spring-persist-mybatis.xml" />
@@ -187,7 +195,6 @@
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/CrowdExceptionResolver.java" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-entity/src/main/java/com/mo/crowd/entity/Role.java" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/test/java/com/mo/crowd/test/CrowdTest.java" />
-        <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/handler/AdminHandler.java" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mapper/MenuMapper.java" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/service/MenuService.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -207,21 +214,26 @@
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/modal-role-assign-auth.jsp" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/handler/AssignRoleHandler.java" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/crowd/my-role.js" />
-        <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/WebAppSecurityConfig.java" />
-        <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/spring-web-mvc.xml" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/api/AdminService.java" />
-        <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/AdminServiceImpl.java" />
-        <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/api/RoleService.java" />
-        <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/RoleServiceImpl.java" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mapper/RoleMapper.java" />
-        <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/mybatis/mapper/RoleMapper.xml" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/api/AuthService.java" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/AuthServiceImpl.java" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mapper/AuthMapper.java" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/mybatis/mapper/AuthMapper.xml" />
-        <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/CrowdUserDetailsService.java" />
+        <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/spring-web-mvc.xml" />
+        <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/AdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/admin-main.jsp" />
+        <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/admin-login.jsp" />
+        <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/WebAppSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/test/java/com/mo/crowd/test/StringTest.java" />
+        <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/include-nav.jsp" />
         <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/SecurityAdmin.java" />
+        <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/mybatis/mapper/RoleMapper.xml" />
+        <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/RoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/api/RoleService.java" />
+        <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/CrowdUserDetailsService.java" />
+        <option value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/handler/AdminHandler.java" />
       </list>
     </option>
   </component>
@@ -274,11 +286,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="68" />
-    <option name="y" value="23" />
-    <option name="width" value="1373" />
-    <option name="height" value="877" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -290,80 +300,13 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="mocrowdfunding-admin-entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="mocrowdfunding-admin-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="mocrowdfunding-admin-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="mocrowdfunding-admin-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="mocrowdfunding-admin-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="mocrowdfunding-admin-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="mocrowdfunding-admin-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mo" type="462c0819:PsiDirectoryNode" />
-              <item name="crowd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="mocrowdfunding-admin-entity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mo" type="462c0819:PsiDirectoryNode" />
-              <item name="crowd" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -456,33 +399,75 @@
               <item name="mo" type="462c0819:PsiDirectoryNode" />
               <item name="crowd" type="462c0819:PsiDirectoryNode" />
               <item name="mvc" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="mocrowdfunding-admin-component" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mo" type="462c0819:PsiDirectoryNode" />
-              <item name="crowd" type="462c0819:PsiDirectoryNode" />
-              <item name="mvc" type="462c0819:PsiDirectoryNode" />
               <item name="handler" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="mocrowdfunding-admin-component" type="462c0819:PsiDirectoryNode" />
+              <item name="mocrowdfunding-admin-entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mocrowdfunding-admin-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mocrowdfunding-admin-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mocrowdfunding-admin-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mocrowdfunding-admin-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mocrowdfunding-admin-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mocrowdfunding-admin-entity" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="mo" type="462c0819:PsiDirectoryNode" />
               <item name="crowd" type="462c0819:PsiDirectoryNode" />
-              <item name="mvc" type="462c0819:PsiDirectoryNode" />
-              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="mocrowdfunding-admin-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mo" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -509,15 +494,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="mocrowdfunding-admin-weui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -532,7 +508,9 @@
               <item name="mocrowdfunding-admin-parent" type="462c0819:PsiDirectoryNode" />
               <item name="mocrowdfunding-admin-weui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mocrowdfunding-admin-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -547,7 +525,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -559,14 +536,14 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.08841733" />
     <property name="project.structure.side.proportion" value="0.2587822" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -654,22 +631,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CrowdTest.testLogger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mocrowdfunding-admin-weui" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mo.crowd.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.mo.crowd.test" />
-      <option name="MAIN_CLASS_NAME" value="com.mo.crowd.test.CrowdTest" />
-      <option name="METHOD_NAME" value="testLogger" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CrowdTest.testTx" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="mocrowdfunding-admin-weui" />
       <extension name="coverage">
@@ -681,6 +642,22 @@
       <option name="PACKAGE_NAME" value="com.mo.crowd.test" />
       <option name="MAIN_CLASS_NAME" value="com.mo.crowd.test.CrowdTest" />
       <option name="METHOD_NAME" value="testTx" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.getPasswordEncoder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mocrowdfunding-admin-weui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mo.crowd.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mo.crowd.test" />
+      <option name="MAIN_CLASS_NAME" value="com.mo.crowd.test.StringTest" />
+      <option name="METHOD_NAME" value="getPasswordEncoder" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -771,7 +748,6 @@
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="mocrowdfunding-admin-weui:war exploded">
           <settings>
@@ -911,19 +887,19 @@
       <item itemvalue="JavaScript Debug.modal-role-assign-auth.json" />
       <item itemvalue="JUnit.CrowdTest.testTx" />
       <item itemvalue="JUnit.CrowdTest.testInsertAdmin" />
-      <item itemvalue="JUnit.CrowdTest.testLogger" />
       <item itemvalue="JUnit.StringTest.test" />
       <item itemvalue="JUnit.CrowdTest.inserTest" />
       <item itemvalue="JUnit.CrowdTest.inserRole" />
+      <item itemvalue="JUnit.StringTest.getPasswordEncoder" />
       <item itemvalue="Tomcat Server.Tomcat8.5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StringTest.getPasswordEncoder" />
         <item itemvalue="JavaScript Debug.modal-role-assign-auth.json" />
         <item itemvalue="JUnit.CrowdTest.inserRole" />
         <item itemvalue="JUnit.CrowdTest.inserTest" />
         <item itemvalue="JUnit.StringTest.test" />
-        <item itemvalue="JUnit.CrowdTest.testLogger" />
       </list>
     </recent_temporary>
   </component>
@@ -959,19 +935,16 @@
       <workItem from="1602323954438" duration="18959000" />
       <workItem from="1602571442727" duration="1099000" />
       <workItem from="1602573090428" duration="3887000" />
+      <workItem from="1602746332062" duration="825000" />
+      <workItem from="1602748040980" duration="9211000" />
+      <workItem from="1602825968740" duration="1006000" />
+      <workItem from="1602850532585" duration="6000" />
+      <workItem from="1603618650066" duration="572000" />
+      <workItem from="1603623004599" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CrowdTest_testTx - 2020.10.04 at 23h 59m 59s.xml">
-      <configuration name="CrowdTest.testTx" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CrowdTest_testTx - 2020.10.05 at 00h 00m 24s.xml">
-      <configuration name="CrowdTest.testTx" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringTest_test - 2020.10.07 at 16h 23m 39s.xml">
-      <configuration name="StringTest.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StringTest_test - 2020.10.07 at 16h 49m 33s.xml">
       <configuration name="StringTest.test" configurationId="JUnit" />
     </history-entry>
@@ -993,9 +966,18 @@
     <history-entry file="CrowdTest_inserRole - 2020.10.09 at 17h 42m 05s.xml">
       <configuration name="CrowdTest.inserRole" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StringTest_getPasswordEncoder - 2020.10.15 at 18h 03m 06s.xml">
+      <configuration name="StringTest.getPasswordEncoder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest_getPasswordEncoder - 2020.10.15 at 18h 06m 24s.xml">
+      <configuration name="StringTest.getPasswordEncoder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest_getPasswordEncoder - 2020.10.15 at 18h 07m 24s.xml">
+      <configuration name="StringTest.getPasswordEncoder" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108639000" />
+    <option name="totallyTimeSpent" value="120282000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1008,8 +990,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30972818" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3004292" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1019,7 +1002,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34819278" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29156625" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1050,117 +1033,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/admin-login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/system-error.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="51" column="64" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="64" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/include-sidebar.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/include-nav.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/admin-main.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/admin-page.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1266">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/代码 上午12.04.11/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-component/src/main/java/com/atguigu/crowd/service/impl/AdminServiceImpl.java" />
-    <entry file="file://$USER_HOME$/Desktop/代码 上午12.04.11/atcrowdfunding01-admin-parent/atcrowdfunding03-admin-component/src/main/java/com/atguigu/crowd/mvc/handler/AdminHandler.java" />
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/admin-add.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="59" column="50" selection-start-line="59" selection-start-column="50" selection-end-line="60" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/assign-role.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="41" column="34" lean-forward="true" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-          <folding>
-            <element signature="n#style#0;n#select#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/modal-role-confirm.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/modal-role-add.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="27" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/modal-menu-edit.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/modal-menu-confirm.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/modal-menu-add.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-entity/src/main/java/com/mo/crowd/entity/Auth.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="747" selection-start-line="747" selection-end-line="747" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/modal-role-assign-auth.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/handler/RoleHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/mo/crowd/mocrowdfunding-common-util/1.0-SNAPSHOT/mocrowdfunding-common-util-1.0-SNAPSHOT.jar!/com/mo/crowd/util/ResultEntity.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1219,36 +1091,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="163" column="29" selection-start-line="163" selection-start-column="23" selection-end-line="163" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/crowd/my-role.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.10.RELEASE/spring-security-core-4.2.10.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetailsService.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-435">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.10.RELEASE/spring-security-config-4.2.10.RELEASE.jar!/org/springframework/security/config/annotation/authentication/builders/AuthenticationManagerBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-entity/src/main/java/com/mo/crowd/entity/Role.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1264,46 +1108,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/api/RoleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/RoleServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="69" column="56" lean-forward="true" selection-start-line="69" selection-start-column="56" selection-end-line="69" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1837#1838#0" expanded="true" />
-            <element signature="e#1900#1901#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/mybatis/mapper/RoleMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mapper/RoleMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/mybatis/mapper/AuthMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="84" column="13" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1317,33 +1125,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/AuthServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="55" column="67" lean-forward="true" selection-start-line="55" selection-start-column="67" selection-end-line="55" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/api/AuthService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/interceptor/LoginInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/CrowdExceptionResolver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1290">
@@ -1354,30 +1135,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/CrowdUserDetailsService.java">
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/spring-persist-tx.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/interceptor/LoginInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-53">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        <state relative-caret-position="135">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/spring-persist-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/mo/crowd/mocrowdfunding-common-util/1.0-SNAPSHOT/mocrowdfunding-common-util-1.0-SNAPSHOT.jar!/com/mo/crowd/constant/CrowdConstant.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/menu-page.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/include-sidebar.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/include-head.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/AdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="42" column="50" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/handler/AdminHandler.java">
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/test/java/com/mo/crowd/test/StringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/include-nav.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="98" selection-start-line="19" selection-start-column="98" selection-end-line="19" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.10.RELEASE/spring-security-core-4.2.10.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetailsService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.10.RELEASE/spring-security-core-4.2.10.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetails.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.10.RELEASE/spring-security-config-4.2.10.RELEASE.jar!/org/springframework/security/config/annotation/authentication/builders/AuthenticationManagerBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.10.RELEASE/spring-security-core-4.2.10.RELEASE.jar!/org/springframework/security/core/CredentialsContainer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.10.RELEASE/spring-security-core-4.2.10.RELEASE.jar!/org/springframework/security/core/userdetails/User.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="44" column="48" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.20.RELEASE/spring-web-4.3.20.RELEASE.jar!/org/springframework/web/filter/DelegatingFilterProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.10.RELEASE/spring-security-core-4.2.10.RELEASE.jar!/org/springframework/security/core/GrantedAuthority.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/SecurityAdmin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="26" />
+        <state relative-caret-position="352">
+          <caret line="39" column="45" lean-forward="true" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#982#983#0" expanded="true" />
@@ -1386,44 +1248,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/WebAppSecurityConfig.java">
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/RoleServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="24" column="57" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="57" />
+        <state relative-caret-position="371">
+          <caret line="58" column="35" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/AdminServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/api/RoleService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2325">
-          <caret line="155" column="66" selection-start-line="155" selection-start-column="66" selection-end-line="155" selection-end-column="66" />
+        <state relative-caret-position="330">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1897#1898#0" expanded="true" />
-            <element signature="e#1967#1968#0" expanded="true" />
-            <element signature="e#4410#4411#0" expanded="true" />
-            <element signature="e#4470#4471#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/spring-persist-mybatis.xml">
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/api/AuthService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9" />
+        <state relative-caret-position="240">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/mybatis/mapper/RoleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/mybatis/mapper/AuthMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="47" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/service/impl/AuthServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="55" column="57" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/CrowdUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="48" column="55" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/admin-main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/spring-web-mvc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="480">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/resources/spring-persist-tx.xml">
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="90" column="22" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/target.jsp">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/system-error.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/handler/AdminHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1347">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/config/WebAppSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="104" column="36" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/assign-role.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="163" column="29" selection-start-line="163" selection-start-column="23" selection-end-line="163" selection-end-column="29" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-component/src/main/java/com/mo/crowd/mvc/handler/TestMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="63" column="86" selection-start-line="63" selection-start-column="79" selection-end-line="63" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="31" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocrowdfunding-admin-weui/src/main/webapp/WEB-INF/admin-login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
